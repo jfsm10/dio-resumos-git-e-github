@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales sapie
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local| [Resumos]()|
+| Gravando alterações no repositório local| [Resumo]()|
 
 ```
 Git Init
