@@ -7,11 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales sapie
 - [Documentação GIT](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
-## 🖥 Resumos das aulas
+##💻 Resumos das aulas
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local| [Resumo]()|
+| Aula 01 | [Resumo]()|
+| Aula 02 | [Resumo]()|
 
 ```
 Git Init
